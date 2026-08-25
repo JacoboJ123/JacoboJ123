@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=715&height=44&lines=Aspiring%20Software%20Developer%20Learning%20Everyday" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=715&height=44&lines=Aspiring%20Data%20Analyst%20Learning%20Everyday" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **Improving my skills**  
-🌱 &nbsp;I'm currently learning **DSA in Python**
+🌱 &nbsp;I'm currently learning **Pandas in Python**
 
 ### 🛠️ Tech Stack
 
