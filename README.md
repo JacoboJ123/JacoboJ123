@@ -1,9 +1,11 @@
 <p align="center">
   <a href="https://github.com/JacoboJ123">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Jonathan" alt="Hello! I&#39;m Jonathan" />
+    
   </a>
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=715&height=44&lines=%20Learning%20Everyday" alt="Typing headlines" />
 </p>
+
 
 <p align="center">
   
